@@ -1,24 +1,33 @@
 # Business Dashboard — Power BI
 
 ## Overview
-Interactive Power BI dashboard analyzing sales performance, revenue KPIs, and regional trends.
+Collection of interactive Power BI dashboards analyzing healthcare, finance, sales, and customer loyalty data.
 
 ## Tools & Technologies
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 - Excel / CSV data sources
 
-## What I Did
-- Built interactive dashboard with slicers, filters, and drill-through functionality
-- Created DAX measures for KPIs: total revenue, MoM growth, return rate
-- Visualized regional sales performance using maps and bar charts
-- Designed clean, business-ready report layout for stakeholders
+## Dashboards
 
-## Key Visuals
-- Revenue trend line chart (monthly)
-- Top 10 products by revenue (bar chart)
-- Regional sales map
-- KPI cards: Total Revenue, Avg Order Value, Return Rate
+### 1. Patient Health Monitoring Report
+![Patient Risk Overview](IMG_20260524_215227_246.jpg)
+- KPI cards: Total Patients, Total Visits, High Risk Patients
+- Fever type analysis, Age group breakdown, Regional distribution
+
+### 2. Financial Analytics Dashboard
+![Financial Analytics](IMG_20260524_215302_010.jpg)
+- Portfolio and risk analysis for Uzbekistan regions
+- NPL ratio trends, loan distribution by channel and client type
+
+### 3. Amazon Sales Dashboard
+![Amazon Sales](IMG_20260524_215257_087.jpg)
+- Total Revenue: $32.87M | Orders: 50K | Products Sold: 150K
+- Revenue by category, region, and payment method
+
+### 4. Portfel va Risk Tahlili
+![Portfel Risk](IMG_20260524_215307_481.jpg)
+- Outstanding balance, repayment trends, NPL ratio monitoring
 
 ## Skills Demonstrated
 Power BI · DAX · Data Visualization · Dashboard Design · Business Reporting
